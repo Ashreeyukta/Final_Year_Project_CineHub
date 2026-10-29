@@ -1,0 +1,32 @@
+/* .imghld {
+  position: relative;
+  width: 100%;
+}
+
+.imghld div.imgtsx {
+  position: absolute;
+  top: 87%;
+  left: 0;
+  width: 100%;
+}
+
+.imghld div.imgtsxl {
+  position: absolute;
+  top: 84%;
+  left: 0;
+  width: 100%;
+  background-color: hotpink;
+} */
+
+/* .trailer-poster-container {
+  display: flex; 
+} */
+
+/* .trailer-poster {
+  flex: 1;
+} */
+
+
+.poster-frame-holder{
+  height: calc(100% - 46px);
+}

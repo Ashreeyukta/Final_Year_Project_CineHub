@@ -1,0 +1,10 @@
+/* carousel images */
+.carousel-item .img {
+  width: 100%;
+  background-color: black;
+  height: calc(100vh - 115.2px - 56px);
+}
+.img img {
+  height: 100%;
+  width: 100%;
+}

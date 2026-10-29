@@ -1,0 +1,80 @@
+html{
+    min-height: 100%;
+}
+body { 
+    background-image: linear-gradient(#000000, #813124) !important;
+    min-height: 100%
+}
+.nav-link .nav-text{
+    color: #ffffff
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.logo {
+    width: 250px;
+}
+
+.sidemenu {
+    font-size: x-large;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.sidemenu:hover {
+    color: #ee3833;
+}
+
+.sidemenu-red {
+    color: #ee3833;
+    cursor: pointer;
+}
+.sidemenu-red:hover {
+    color: #a53f2e;
+}
+.text-underline{
+    border-bottom: 3px solid #8d9ca3;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-bottom: 0px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.text-underline .nav-link {
+    padding-left: 45px;
+    padding-bottom: 0px;
+    padding-top: 17px;
+    color: #ffffff;
+    cursor: pointer;
+}
+a.nav-link.nav-text:hover {
+    color: #ee3833 !important;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #61251c;
+    border-color: #61251c;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #84291b;
+    border-color: #84291b;
+}
+
+.nav-link:focus {
+    color: #ee3833;
+}

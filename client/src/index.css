@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #acacac !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.body-footer-manager {
+  height: 115.2px;
+}
+
+.myCustom:hover{
+  width: 280px;
+  background-color: whitesmoke;
+}
+
+.myCustom img:hover{
+  width: 110%;
+}
+
+.trailer-frame-holderen:hover{
+  background-color: rgb(48, 228, 48);
+}
